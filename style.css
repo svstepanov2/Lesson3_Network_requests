@@ -1,0 +1,22 @@
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Свойства кнопки "лайк" */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+/* Свойства счетчика лайков */
+p {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
